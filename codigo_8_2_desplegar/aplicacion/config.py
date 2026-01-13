@@ -12,4 +12,4 @@ SQLALCHEMY_TRACK_MODIFICATIONS = False
 #SQLALCHEMY_DATABASE_URI= 'postgresql+psycopg2://root:password@localhost/base_datos'
 #SQLALCHEMY_TRACK_MODIFICATIONS=False
 
-SQLALCHEMY_DATABASE_URI= 'postgresql+psycpg2://dbweb_i4hz_user:6Gd8ccgO7tPVypD2LPKyOa3DtnN3kYr2@dpg-d5flshh5pdvs73fdkmf0-a.frankfurt-postgres.render.com/dbweb_i4hz'
+SQLALCHEMY_DATABASE_URI= 'postgresql+psycopg2://dbweb_i4hz_user:6Gd8ccgO7tPVypD2LPKyOa3DtnN3kYr2@dpg-d5flshh5pdvs73fdkmf0-a.frankfurt-postgres.render.com/dbweb_i4hz'
